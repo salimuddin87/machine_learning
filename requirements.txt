@@ -1,0 +1,8 @@
+panda
+scikit-learn
+numpy
+pydbgen
+sympy
+sdv
+spacy
+torch
